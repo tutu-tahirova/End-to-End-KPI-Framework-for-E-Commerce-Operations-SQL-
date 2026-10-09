@@ -1,7 +1,7 @@
 # Olist E-Commerce Analitika Layihəsi
 
 ## 1. Layihə haqqında qısa
-Bu layihədə Olist e-ticarət məlumatlarından istifadə edərək end-to-end bir KPI və analitika çərçivəsi qurdum. Məqsədim xam məlumatları təmizləyib SQL-də analiz etmək, sonda isə Python vasitəsilə vizual qrafiklərə çevirərək real biznes insaytları əldə etmək idi.
+* Bu layihədə Olist e-ticarət məlumatlarından istifadə edərək end-to-end bir KPI və analitika çərçivəsi qurdum. Məqsədim xam məlumatları təmizləyib SQL-də analiz etmək, sonda isə Python vasitəsilə vizual qrafiklərə çevirərək real biznes insaytları əldə etmək idi.
 ---
 ## 2. Verilənlər Bazası və `v_order_analytics` View-u
 * Hər dəfə cədvəlləri birləşdirməmək üçün mərkəzi bir VIEW yaratdım:
